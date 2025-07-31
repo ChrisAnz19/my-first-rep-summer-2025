@@ -1,3 +1,6 @@
+[![Python application](https://github.com/ChrisAnz19/my-first-rep-summer-2025/actions/workflows/python-app.yml/badge.svg)](https://github.com/ChrisAnz19/my-first-rep-summer-2025/actions/workflows/python-app.yml)
+
+
 # my-first-repo-summer-2025
 
 ## Setup
